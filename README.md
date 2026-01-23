@@ -152,7 +152,7 @@ If you use this code in your research, please consider citing:
 @misc{resnet_attention_malaria,
   title={ResNet-18 with Channel Attention for Malaria Detection},
   year={2024},
-  howpublished={\url{https://github.com/your-repo/resnet-attention-malaria}}
+  howpublished={\url{https://github.com/Siddikpatel/Channel-wise-attention-in-ResNet-18}}
 }
 ```
 
